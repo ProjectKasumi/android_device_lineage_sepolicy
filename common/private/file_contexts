@@ -27,3 +27,6 @@
 
 # Themes data
 /data/system/theme(/.*)?    u:object_r:theme_data_file:s0
+
+# HID Gadget
+/dev/hidg[0-9]*          u:object_r:hid_gadget_device:s0
