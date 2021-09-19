@@ -1,2 +1,0 @@
-/sys/class/drm/sde-crtc-0/measured_fps u:object_r:sysfs_graphics:s0
-/sys/class/graphics/fb0/measured_fps u:object_r:sysfs_graphics:s0
